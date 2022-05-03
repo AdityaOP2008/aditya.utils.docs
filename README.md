@@ -2,13 +2,13 @@
 
 ## ABOUT
 
-A NPM PACKAGE FOR  NODE.JS  BASICALLY AN UTILITY PACKAGE.
+A NPM PACKAGE FOR NODE.JS BASICALLY AN UTILITY PACKAGE.
 
 ## INSTALL
 
-<mark style="color:red;"></mark>
+<mark style="color:red;"><mark style="background-color:purple;">**npm i aditya.utils**<mark style="background-color:purple;"></mark>
 
-<mark style="background-color:purple;"><mark style="color:red;">**npm i aditya.utils**<mark style="color:red;"></mark>\ <mark style="background-color:purple;"><mark style="color:red;">**yarn add aditya.utils**<mark style="color:red;"></mark>
+&#x20;<mark style="color:red;"><mark style="background-color:purple;"><mark style="background-color:purple;"></mark> <mark style="color:red;"><mark style="background-color:purple;"> </mark><mark style="color:red;"><mark style="background-color:purple;">**yarn add aditya.utils**<mark style="background-color:purple;"></mark>
 
 ## GITHUB
 
@@ -21,4 +21,3 @@ GITHUB
 {% embed url="https://www.npmjs.com/package/aditya.utils" %}
 NPM.JS
 {% endembed %}
-
